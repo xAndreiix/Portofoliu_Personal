@@ -1,0 +1,40 @@
+# Node.js (dacă folosești vreodată npm pentru animații sau tool-uri)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+*.log.*
+log/
+
+# Cache sau temporare
+.cache/
+.temp/
+*.tmp
+
+# SASS / SCSS cache
+.sass-cache/
+
+# VS Code
+.vscode/
+
+# Sisteme IDE
+.idea/
+*.iml
+
+# Alte medii/asset-uri ce nu sunt surse cod (dacă le generezi local)
+# assets/images/
+assets/videos/
