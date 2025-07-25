@@ -77,5 +77,5 @@ Fișierul `.gitignore` exclude din repository:
 This project is licensed under the MIT License.
 
 ## ✍️ Author
-Andrei Iliescu
-Built with focus on clean UI and functional design.
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
