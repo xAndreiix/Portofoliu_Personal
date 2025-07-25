@@ -12,6 +12,7 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 ├── assets/
 │ └── images/ # Imagini utilizate în pagină (proiecte, avatar, secțiuni)
 ├── .gitignore # Fișiere și foldere excluse din sistemul de versionare
+├── LICENSE                           # Filă pentru licențierea MIT
 └── README.md # Documentația proiectului
 
 ## 🧠 Descriere Generală
@@ -59,12 +60,12 @@ Fișierul `.gitignore` exclude din repository:
 
 | Proiect            | Tehnologii      | Link GitHub                                                                |
 | ------------------ | --------------- | -------------------------------------------------------------------------- |
-| Snake Game         | Python, Pygame  | [Snake-Game](https://github.com/xAndreiix/Snake-Game)                      |
-| Shooting Asteroids | Python, Pygame  | [Shooting Asteroids](https://github.com/xAndreiix/Shooting-asteroids-game) |
-| Ping-Pong Game     | Python, Pygame  | [Ping Pong](https://github.com/xAndreiix/Ping-Pong-Game)                   |
-| Tic-Tac-Toe        | Python, Tkinter | [Tic Tac Toe](https://github.com/xAndreiix/Tic-Tac-Toe-Game)               |
-| Tetris Game        | Python, Pygame  | [Tetris](https://github.com/xAndreiix/Tetris-Game)                         |
-| YouTube Downloader | Python, yt_dlp  | [YT Downloader](https://github.com/xAndreiix/YouTube-Downloader)           |
+| Snake Game         | Python, Pygame  | [Snake-Game](https://github.com/xAndreiix/Snake_Game)                      |
+| Shooting Asteroids | Python, Pygame  | [Shooting Asteroids](https://github.com/xAndreiix/Shooting_Asteroids_Game) |
+| Ping-Pong Game     | Python, Pygame  | [Ping Pong](https://github.com/xAndreiix/Ping_Pong_Game)                   |
+| Tic-Tac-Toe        | Python, Tkinter | [Tic Tac Toe](https://github.com/xAndreiix/Tic_Tac_Toe_Game)               |
+| Tetris Game        | Python, Pygame  | [Tetris](https://github.com/xAndreiix/Tetris_Game)                         |
+| YouTube Downloader | Python, yt_dlp  | [YT Downloader](https://github.com/xAndreiix/YouTube_Downloader)           |
 
 ## 🛠️ Cum Rulezi Local
 
