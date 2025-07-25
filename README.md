@@ -71,7 +71,7 @@ Fișierul `.gitignore` exclude din repository:
 
 1. Clonează repository-ul:
    ```bash```
-   git clone https://github.com/xAndreiix/portofoliu-andrei.git
+   git clone https://github.com/xAndreiix/Portofoliu_Personal.git
    
 ## 📄 License
 This project is licensed under the MIT License.
