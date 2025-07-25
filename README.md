@@ -4,16 +4,16 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 
 ## 📂 Structura Proiectului
 
-📁 portofoliu/
-│
-├── index.html # Structura HTML a site-ului
-├── style.css # Design-ul și stilizarea întregului website
-├── script.js # Animații și interacțiuni dinamice
-├── assets/
-│ └── images/ # Imagini utilizate în pagină (proiecte, avatar, secțiuni)
-├── .gitignore # Fișiere și foldere excluse din sistemul de versionare
-├── LICENSE                           # Filă pentru licențierea MIT
-└── README.md # Documentația proiectului
+- 📁 portofoliu/
+- │
+- ├── index.html # Structura HTML a site-ului
+- ├── style.css # Design-ul și stilizarea întregului website
+- ├── script.js # Animații și interacțiuni dinamice
+- ├── assets/
+- │ └── images/ # Imagini utilizate în pagină (proiecte, avatar, secțiuni)
+- ├── .gitignore # Fișiere și foldere excluse din sistemul de versionare
+- ├── LICENSE                           # Filă pentru licențierea MIT
+- └── README.md # Documentația proiectului
 
 ## 🧠 Descriere Generală
 
@@ -70,6 +70,12 @@ Fișierul `.gitignore` exclude din repository:
 ## 🛠️ Cum Rulezi Local
 
 1. Clonează repository-ul:
-   ```bash
+   ```bash```
    git clone https://github.com/xAndreiix/portofoliu-andrei.git
-   ```
+   
+## 📄 License
+This project is licensed under the MIT License.
+
+## ✍️ Author
+Andrei Iliescu
+Built with focus on clean UI and functional design.
