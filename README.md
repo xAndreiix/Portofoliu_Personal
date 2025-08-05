@@ -23,6 +23,8 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 - ├── LICENSE                           # Filă pentru licențierea MIT
 - └── README.md # Documentația proiectului
 
+---
+
 ## 🧠 Descriere Generală
 
 Acest proiect este un website static creat în HTML, CSS și JavaScript, destinat prezentării portofoliului profesional al lui **Andrei Iliescu**. Conține informații despre:
@@ -32,6 +34,8 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 - Competențe tehnice și personale
 - Proiecte realizate (ex: Snake Game, Tetris, YouTube Downloader)
 - Formă de contact și legături către rețele profesionale (LinkedIn, GitHub)
+
+---
 
 ## 🚀 Tehnologii Folosite
 
@@ -43,10 +47,14 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 | Boxicons   | Bibliotecă de iconițe vectoriale       |
 | Typed.js   | Efect de scriere automată în antet     |
 
+---
+
 ## 🔗 Link-uri Utile
 
 - [💼 LinkedIn](https://www.linkedin.com/in/andrei-iliescu-aa7910214/)
 - [💻 GitHub](https://github.com/xAndreiix)
+
+---
 
 ## 📁 .gitignore
 
@@ -57,12 +65,16 @@ Fișierul `.gitignore` exclude din repository:
 - Configurații locale IDE (VS Code, WebStorm etc.)
 - Fișiere generate (ex: `dist/`, `node_modules/`, `.DS_Store` etc.)
 
+---
+
 ## 🧩 Funcționalități
 
 - Navigare rapidă prin secțiuni (Acasă, Despre, Skill-uri, Portofoliu, Contact)
 - Animații de intrare și efecte la hover
 - Efect de scriere animată pentru rolurile profesionale
 - Design adaptabil pentru diverse rezoluții
+
+---
 
 ## 📈 Proiecte Prezentate
 
@@ -75,14 +87,20 @@ Fișierul `.gitignore` exclude din repository:
 | Tetris Game        | Python, Pygame  | [Tetris](https://github.com/xAndreiix/Tetris_Game)                         |
 | YouTube Downloader | Python, yt_dlp  | [YT Downloader](https://github.com/xAndreiix/YouTube_Downloader)           |
 
+---
+
 ## 🛠️ Cum Rulezi Local
 
 1. Clonează repository-ul:
    ```bash```
    git clone https://github.com/xAndreiix/Portofoliu_Personal.git
+
+---
    
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 ## ✍️ Author
 - Andrei Iliescu
