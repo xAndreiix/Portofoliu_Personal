@@ -2,6 +2,13 @@
 
 Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o prezentare profesională a educației, experienței și proiectelor mele din domeniul dezvoltării software, cu focus pe Web Development și Python.
 
+---
+
+# 💻 Live preview
+- [⛓️‍💥 Demo](https://portofoliu-personal-drab.vercel.app/)
+
+---
+
 ## 📂 Structura Proiectului
 
 - 📁 portofoliu/
