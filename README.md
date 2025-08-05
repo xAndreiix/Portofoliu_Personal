@@ -5,6 +5,7 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 ---
 
 ## 💻 Live Preview
+
 - [⛓️‍💥 Prototype Portfolio](https://portofoliu-personal-drab.vercel.app/)
 
 ---
