@@ -10,6 +10,53 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/hero-section.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/about-me.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/my-studies.png" width="45%">
+   <img src="screenshots/more-of-my-studies.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/professional-experience.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/my-skills.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/my-projects.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/contact-me.png" width="600">
+</p>
+
+<br>
+
+---
+
 ## 📂 Structura Proiectului
 
 - 📁 portofoliu/
