@@ -17,7 +17,7 @@
 
 ---
 
-## Descrierea Poriectului
+## Descrierea Poeiectului
 Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o prezentare profesională a educației, experienței și proiectelor mele din domeniul dezvoltării software, cu focus pe Web Development și Python.
 
 Acest proiect este un website static creat în HTML, CSS și JavaScript, destinat prezentării portofoliului profesional al lui **Andrei Iliescu**. Conține informații despre:
