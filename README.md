@@ -32,7 +32,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 ---
 
 ## Live Demo
-[⛓️‍💥 Prototype Portfolio](https://portofoliu-personal-drab.vercel.app/)
+[⛓️‍💥 Portofoliu Prototip](https://portofoliu-personal-drab.vercel.app/)
 
 ---
 
