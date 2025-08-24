@@ -3,8 +3,8 @@
 ---
 
 ## 📋 Cuprins
-- 🏷️ [Introducere](#introducere)
-- 💻 [Live Demo](#live-demo)
+- 🏷️ [Descrierea Proiectului](#descrierea-proiectului)
+- 💻 [Demo Live](#demo-live)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Funcționalități](#funcționalități)
 - 🛠️ [Tehnologii](#tehnologii)
@@ -17,7 +17,7 @@
 
 ---
 
-## Introducere
+## Descrierea Poriectului
 Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o prezentare profesională a educației, experienței și proiectelor mele din domeniul dezvoltării software, cu focus pe Web Development și Python.
 
 Acest proiect este un website static creat în HTML, CSS și JavaScript, destinat prezentării portofoliului profesional al lui **Andrei Iliescu**. Conține informații despre:
@@ -31,7 +31,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 
 ---
 
-## Live Demo
+## Demo Live
 [⛓️‍💥 Portofoliu Prototip](https://portofoliu-personal-drab.vercel.app/)
 
 ---
