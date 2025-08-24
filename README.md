@@ -12,7 +12,7 @@
 - 💾 [Instalare](#instalare)
 - ⚠️ [Notițe](#notițe)
 - 📜 [Licență](#licență)
-- 👨🏻‍💻 [Autor](#autor--contact) / 📩 [Contact](#autor--contact)
+- 👨🏻‍💻 [Autor](#autor--recunoștință--contact) / 🙏🏻 [Recunoștință](#autor--recunoștință--contact) / 📩 [Contact](#autor--recunoștință--contact)
 - 💰 [Dacă vrei să îmi susții munca](#dacă-vrei-să-îmi-susții-munca)
 
 ---
@@ -156,17 +156,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 
 ---
 
-## Autor / Contact
+## Autor / Recunoștință / Contact
 **Autor:** 
 Andrei Iliescu
 
 [![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
-<!-- **Acknowledgments:**  
-- Inspired by [...](https://www.tiktok.com/...) tutorial on TikTok.
+**Recunoștință:**  
+- Inspirat de [Syntax Studio](https://www.youtube.com/@SyntaxStudioTv) tutorial de pe YouTube.
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](...)
-- All thanks to him for the tutorial! -->
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=XRSQHkzrQGQ&ab_channel=SyntaxStudio)
+- Toate mulțumirile către el, pentru tutorial!
 
 **Contact:**  
 
