@@ -27,6 +27,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 - Competențe tehnice și personale
 - Proiecte realizate (ex: Snake Game, Tetris, YouTube Downloader)
 - Formă de contact și legături către rețele profesionale (LinkedIn, GitHub)
+<!-- ## Badges -->
 
 ---
 
