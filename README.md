@@ -153,7 +153,7 @@ Fișierul `.gitignore` exclude din repository:
 ---
 
 ## Licență
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+Acest proiect este licențiat sub licența MIT - vezi [LICENȚA](LICENSE)
 
 ---
 
