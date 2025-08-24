@@ -141,6 +141,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 ```bash
 git clone https://github.com/xAndreiix/Portofoliu_Personal.git
 ```
+
 ---
 
 ## Notițe
