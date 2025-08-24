@@ -1,17 +1,41 @@
 # 🌐 Andrei Iliescu — Portofoliu Personal
 
+---
+
+## 📋 Cuprins
+- 🏷️ [Introducere](#introducere)
+- 💻 [Live Demo](#live-demo)
+- 📷 [Screenshots](#screenshots)
+- ✨ [Funcționalități](#funcționalități)
+- 🛠️ [Tehnologii](#tehnologii)
+- 🗂️ [Structura Proiectului](#structura-proiectului)
+- 💾 [Instalare](#instalare)
+- ⚠️ [Notițe](#notițe)
+- 📜 [Licență](#licență)
+- 👨🏻‍💻 [Autor](#autor--contact) / 📩 [Contact](#autor--contact)
+- 💰 [Dacă vrei să îmi susții munca](#dacă-vrei-să-îmi-susții-munca)
+
+---
+
+## Introducere
 Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o prezentare profesională a educației, experienței și proiectelor mele din domeniul dezvoltării software, cu focus pe Web Development și Python.
 
+Acest proiect este un website static creat în HTML, CSS și JavaScript, destinat prezentării portofoliului profesional al lui **Andrei Iliescu**. Conține informații despre:
+
+- Educație & certificări
+- Experiență profesională
+- Competențe tehnice și personale
+- Proiecte realizate (ex: Snake Game, Tetris, YouTube Downloader)
+- Formă de contact și legături către rețele profesionale (LinkedIn, GitHub)
+
 ---
 
-## 💻 Live Preview
-
-- [⛓️‍💥 Prototype Portfolio](https://portofoliu-personal-drab.vercel.app/)
+## Live Demo
+[⛓️‍💥 Prototype Portfolio](https://portofoliu-personal-drab.vercel.app/)
 
 ---
 
-## 📷 Screenshots
-
+## Screenshots
 <p align="center">
   <img src="screenshots/hero-section.png" width="600">
 </p>
@@ -57,65 +81,7 @@ Bine ai venit în repository-ul meu oficial de portofoliu! Acest website este o 
 
 ---
 
-## 📂 Structura Proiectului
-
-- 📁 portofoliu/
-- │
-- ├── index.html # Structura HTML a site-ului
-- ├── style.css # Design-ul și stilizarea întregului website
-- ├── script.js # Animații și interacțiuni dinamice
-- ├── assets/
-- │ └── images/ # Imagini utilizate în pagină (proiecte, avatar, secțiuni)
-- ├── .gitignore # Fișiere și foldere excluse din sistemul de versionare
-- ├── LICENSE                           # Filă pentru licențierea MIT
-- └── README.md # Documentația proiectului
-
----
-
-## 🧠 Descriere Generală
-
-Acest proiect este un website static creat în HTML, CSS și JavaScript, destinat prezentării portofoliului profesional al lui **Andrei Iliescu**. Conține informații despre:
-
-- Educație & certificări
-- Experiență profesională
-- Competențe tehnice și personale
-- Proiecte realizate (ex: Snake Game, Tetris, YouTube Downloader)
-- Formă de contact și legături către rețele profesionale (LinkedIn, GitHub)
-
----
-
-## 🚀 Tehnologii Folosite
-
-| Tehnologie | Descriere                              |
-| ---------- | -------------------------------------- |
-| HTML5      | Structurarea conținutului paginii      |
-| CSS3       | Design responsiv, animații și layout   |
-| JavaScript | Efecte dinamice și animații (Typed.js) |
-| Boxicons   | Bibliotecă de iconițe vectoriale       |
-| Typed.js   | Efect de scriere automată în antet     |
-
----
-
-## 🔗 Link-uri Utile
-
-- [💼 LinkedIn](https://www.linkedin.com/in/andrei-iliescu-aa7910214/)
-- [💻 GitHub](https://github.com/xAndreiix)
-
----
-
-## 📁 .gitignore
-
-Fișierul `.gitignore` exclude din repository:
-
-- Fișiere temporare
-- Cache
-- Configurații locale IDE (VS Code, WebStorm etc.)
-- Fișiere generate (ex: `dist/`, `node_modules/`, `.DS_Store` etc.)
-
----
-
-## 🧩 Funcționalități
-
+## Funcționalități
 - Navigare rapidă prin secțiuni (Acasă, Despre, Skill-uri, Portofoliu, Contact)
 - Animații de intrare și efecte la hover
 - Efect de scriere animată pentru rolurile profesionale
@@ -123,32 +89,93 @@ Fișierul `.gitignore` exclude din repository:
 
 ---
 
-## 📈 Proiecte Prezentate
-
-| Proiect            | Tehnologii      | Link GitHub                                                                |
-| ------------------ | --------------- | -------------------------------------------------------------------------- |
-| Snake Game         | Python, Pygame  | [Snake-Game](https://github.com/xAndreiix/Snake_Game)                      |
-| Shooting Asteroids | Python, Pygame  | [Shooting Asteroids](https://github.com/xAndreiix/Shooting_Asteroids_Game) |
-| Ping-Pong Game     | Python, Pygame  | [Ping Pong](https://github.com/xAndreiix/Ping_Pong_Game)                   |
-| Tic-Tac-Toe        | Python, Tkinter | [Tic Tac Toe](https://github.com/xAndreiix/Tic_Tac_Toe_Game)               |
-| Tetris Game        | Python, Pygame  | [Tetris](https://github.com/xAndreiix/Tetris_Game)                         |
-| YouTube Downloader | Python, yt_dlp  | [YT Downloader](https://github.com/xAndreiix/YouTube_Downloader)           |
+## Tehnologii
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Boxicons
 
 ---
 
-## 🛠️ Cum Rulezi Local
+## Structura Proiectului
+- │ 📁 portofoliu/
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── assets/
+- │ └── images/
+- │   └── home.png
+- │   └── aboute.png
+- │   └── ping-pong game.png
+- │   └── shooting asteroids game.png
+- │   └── snake game.jpeg
+- │   └── tetris game.jpeg
+- │   └── tic-tac-toe games.jpeg
+- │   └── youtube downloader.png
+- ├── screenshots/
+- │   └── hero-section.png
+- │   └── aboute-me.png
+- │   └── my-studies.png
+- │   └── more-of-my-studies.png
+- │   └── my-skills.png
+- │   └── professional-experience.png
+- │   └── my-projects.png
+- │   └── contact-me.png
+- ├── .gitignore
+- ├── LICENSE
+- └── README.md # Documentația proiectului
+<!-- ## Requirements -->
+<!-- ## Usage -->
+<!-- ## Configuration -->
+<!-- ## Runing tests -->
+<!-- ## Deployment -->
+<!-- ## Road Map -->
+<!-- ## FAQ -->
+<!-- ## Contributing -->
 
+---
+
+## Instalare
 1. Clonează repository-ul:
-   ```bash```
-   git clone https://github.com/xAndreiix/Portofoliu_Personal.git
-
----
-   
-## 📄 License
-This project is licensed under the MIT License.
-
+```bash
+git clone https://github.com/xAndreiix/Portofoliu_Personal.git
+```
 ---
 
-## ✍️ Author
-- Andrei Iliescu
-- Built with focus on clean UI and functional design.
+## Notițe
+Fișierul `.gitignore` exclude din repository:
+- Fișiere temporare
+- Cache
+- Configurații locale IDE (VS Code, WebStorm etc.)
+- Fișiere generate (ex: `dist/`, `node_modules/`, `.DS_Store` etc.)
+
+---
+
+## Licență
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+
+---
+
+## Autor / Contact
+**Autor:** 
+Andrei Iliescu
+
+[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
+
+<!-- **Acknowledgments:**  
+- Inspired by [...](https://www.tiktok.com/...) tutorial on TikTok.
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](...)
+- All thanks to him for the tutorial! -->
+
+**Contact:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)<br>
+[![Email Yahoo](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-6001D2?style=for-the-badge&logoColor=white)](mailto:andrey_iliescu@yahoo.com)<br>
+[![Email Gmail](https://img.shields.io/badge/Gmail-andrei.iliescu13102000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com)
+
+---
+
+## Dacă vrei să îmi susții munca
+[![PayPal](https://img.shields.io/badge/PayPal-xAndreiix-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)<br>
+[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
