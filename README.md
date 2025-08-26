@@ -38,47 +38,8 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/hero-section.png" width="600">
+  <img src="screenshots/website-preview.png" width="600">
 </p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/about-me.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/my-studies.png" width="45%">
-   <img src="screenshots/more-of-my-studies.png" width="45%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/professional-experience.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/my-skills.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/my-projects.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/contact-me.png" width="600">
-</p>
-
-<br>
 
 ---
 
@@ -114,14 +75,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 - │   └── tic-tac-toe games.jpeg
 - │   └── youtube downloader.png
 - ├── screenshots/
-- │   └── hero-section.png
-- │   └── aboute-me.png
-- │   └── my-studies.png
-- │   └── more-of-my-studies.png
-- │   └── my-skills.png
-- │   └── professional-experience.png
-- │   └── my-projects.png
-- │   └── contact-me.png
+- │   └── website-preview.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md # Documentația proiectului
