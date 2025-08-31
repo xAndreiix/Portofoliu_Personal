@@ -41,6 +41,12 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
   <img src="screenshots/portfolio-mockup.png" width="600">
 </p>
 
+<br>
+
+<p align="center">
+  <img src="screenshots/webpage-portfolio-mockup.png" width="600">
+</p>
+
 ---
 
 ## Funcționalități
@@ -76,6 +82,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 - │   └── youtube downloader.png
 - ├── screenshots/
 - │   └── portfolio-mockup.png
+- │   └── webpage-portfolio-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md # Documentația proiectului
