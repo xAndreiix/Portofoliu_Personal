@@ -38,7 +38,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/website-preview.png" width="600">
+  <img src="screenshots/portfolio-mockup.png" width="600">
 </p>
 
 ---
@@ -75,7 +75,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 - │   └── tic-tac-toe games.jpeg
 - │   └── youtube downloader.png
 - ├── screenshots/
-- │   └── website-preview.png
+- │   └── portfolio-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md # Documentația proiectului
