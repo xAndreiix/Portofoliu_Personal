@@ -123,7 +123,7 @@ Acest proiect este licențiat sub licența MIT - vezi [LICENȚA](LICENSE)
 **Autor:** 
 Andrei Iliescu
 
-[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
+[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://andrei-iliescu-portfolio.netlify.app/)
 
 **Recunoștință:**  
 - Inspirat de tutorialul lui [Syntax Studio](https://www.youtube.com/@SyntaxStudioTv) de pe YouTube.
