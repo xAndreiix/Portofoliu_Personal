@@ -9,6 +9,7 @@
 - ✨ [Funcționalități](#funcționalități)
 - 🛠️ [Tehnologii](#tehnologii)
 - 🗂️ [Structura Proiectului](#structura-proiectului)
+- 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 💾 [Instalare](#instalare)
 - ⚠️ [Notițe](#notițe)
 - 📜 [Licență](#licență)
@@ -93,7 +94,13 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 <!-- ## Deployment -->
 <!-- ## Road Map -->
 <!-- ## FAQ -->
-<!-- ## Contributing -->
+
+---
+
+## Contributing
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you’d like to change.
+<!-- ## Changelog -->
 
 ---
 
