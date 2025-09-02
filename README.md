@@ -89,7 +89,7 @@ Acest proiect este un website static creat în HTML, CSS și JavaScript, destina
 <!-- ## Requirements -->
 <!-- ## Usage -->
 <!-- ## Configuration -->
-<!-- ## Runing tests -->
+<!-- ## Running tests -->
 <!-- ## Deployment -->
 <!-- ## Road Map -->
 <!-- ## FAQ -->
